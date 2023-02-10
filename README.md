@@ -9,18 +9,25 @@ Ankit is an experienced Associate with a demonstrated history of working in the 
 
 Skillsets :PowerBI(Cloud/On Premise) | DATA ANALYTICS | JIRA / Kanban |CLOUD|CRM| DOCUMENTATION & RESEARCH | SQL| ADF / Data Pipelines| Risk Mgmt & Governance |
            Stakeholder Mgmt - Communication
-Industries : Life Sciences / Pharma | *BFSI [Total Exp - 3.5 Yrs]
 
-Thanks for considering visiting my profile , please check folder "Application Files" for all links to technical profiles and folder "Certificates" for functional profile. 
+Industries : Life Sciences| *BFSI [Total Exp 3.9 Yrs]
+
+Thanks for considering visiting my profile , please check folder "Application Files" for all links to technical profiles and folder "Certificates" for functional profile.Pls visit the shared links for details & review purposes.  
 
 Thanks,
 
 Ankit Tiwary|
 
-tiwary.ankit@outlook.com
-Software Engineer II - UST
+tiwary.ankit@outlook.com |
+
+
+![image](https://user-images.githubusercontent.com/98974855/218161759-e302eb57-bca0-4c21-a663-c4ed03b6b588.png)
+
+
 
 <!---
 AnkitTiwary/AnkitTiwary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
