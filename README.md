@@ -12,13 +12,13 @@ Skillsets :     PowerBI(Cloud/On Premise) | DATA ANALYTICS | JIRA/Confluence|CLO
 
 Primary Domains : Analytics with (cloud|BI|ETL|Admin|Devops&Agile) 
 
-Industries : Life Sciences| *BFSI [Total Exp 3.9 Yrs]
+Industries : Life Sciences| *BFSI [Total Exp 4+ Yrs]
 
 Thanks for considering visiting my profile , please check folder "Application Files" for all links to technical profiles and folder "Certificates" for functional profile.Pls visit the shared links for details & reference purposes, appreciate your gesture of time spent.  
 
 Thanks,
 
-Ankit Tiwary| tiwary.ankit@outlook.com |
+Ankit Tiwary| ankittiwary95@gmail.com |
 
 ![image](https://user-images.githubusercontent.com/98974855/218161759-e302eb57-bca0-4c21-a663-c4ed03b6b588.png)        |      ![image](https://user-images.githubusercontent.com/98974855/228047531-70f5b0e1-a0e4-4993-a465-0bb50ffa8c59.png)                              | ![image](https://user-images.githubusercontent.com/98974855/231963890-f64f7c92-9b1c-44df-8ce3-b03a8b4932af.png)
 
