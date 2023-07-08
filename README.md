@@ -7,8 +7,8 @@ About me :
 
 Ankit is an experienced Associate with a demonstrated history of working in the analytics industry. Skilled in Data Analytics, Data Visualisation and Consumer Behaviour with a history of delivering data-driven inferences in the Life Sciences , BFSI industry. Trained in tools across BI, cloud domain and understanding of data analytics processes.
 
-Skillsets :     PowerBI(Cloud/On Premise) , Tableau | DATA ANALYTICS | JIRA/Confluence|CLOUD|CRM| Documentation /BRD/FRD/SAD| 
-                SQL| ADF | Synapse , GCP| Risk Mgmt & Governance|Stakeholder Mgmt - Communication| Testing
+Skillsets :     PowerBI(Desktop / Service) , Tableau(Desk/Server) | DATA ANALYTICS | JIRA/Confluence|CLOUD|CRM| Documentation /BRD/FRD/SAD| 
+                SQL| Etl - ADF / Synapse , GCP| Risk Mgmt & Governance|Stakeholder Mgmt - Communication| UAT Testing
 
 Primary Domains : Analytics with (cloud|BI|ETL|SQL|Admin|Devops & Agile) 
 
