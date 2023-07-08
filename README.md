@@ -10,7 +10,7 @@ Ankit is an experienced Associate with a demonstrated history of working in the 
 Skillsets :     PowerBI(Cloud/On Premise) , Tableau | DATA ANALYTICS | JIRA/Confluence|CLOUD|CRM| Documentation /BRD/FRD/SAD| 
                 SQL| ADF | Synapse , GCP| Risk Mgmt & Governance|Stakeholder Mgmt - Communication| Testing
 
-Primary Domains : Analytics with (cloud|BI|ETL|Admin|Devops&Agile) 
+Primary Domains : Analytics with (cloud|BI|ETL|SQL|Admin|Devops & Agile) 
 
 Industries : Life Sciences| *BFSI [Total Exp 4.2 Yrs]
 
@@ -19,6 +19,8 @@ Thanks for considering visiting my profile , please check folder "Application Fi
 Thanks,
 
 Ankit Tiwary| ankittiwary95@gmail.com |
+Profile Vedio : 
+https://youtu.be/s8jCD7sM3SU
 
 ![image](https://user-images.githubusercontent.com/98974855/218161759-e302eb57-bca0-4c21-a663-c4ed03b6b588.png)        |      ![image](https://user-images.githubusercontent.com/98974855/228047531-70f5b0e1-a0e4-4993-a465-0bb50ffa8c59.png)                              | ![image](https://user-images.githubusercontent.com/98974855/231963890-f64f7c92-9b1c-44df-8ce3-b03a8b4932af.png)
 
